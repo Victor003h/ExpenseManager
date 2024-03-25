@@ -1,6 +1,6 @@
 # ExpenseManager
 
-This project consists of a .net API, and a small implementation.
+This project consists of a ASP.NET Web API, and a small implementation.
 To run the project you must follow the following steps:
 
 1- Import the database found in the Database folder ,and give it the file name.
